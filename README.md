@@ -89,3 +89,4 @@ Code: [MIT](LICENSE). Logo and artwork in `assets/`: © 2026 Milas, all rights r
 Inspired by a macOS rice seen on TikTok. Code written from scratch.
 
 **Milas** · [GitHub](https://github.com/imp0sutoikku) · Discord: `imp_sutoikku`
+![Aperçu](Screenshot 2026-10-20 at 12.42.09.png)
