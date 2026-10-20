@@ -3,7 +3,7 @@
 <p align="center">Un bureau macOS en rose clair, bleu et gris argenté, fait de widgets <a href="https://tracesof.net/uebersicht/">Übersicht</a>.<br>A soft pink, blue and silver macOS desktop built with Übersicht widgets.</p>
 
 [🇫🇷 Français](#-français) · [🇬🇧 English](#-english)
-
+   ![Aperçu](Screenshot%202026-10-20%20at%2012.42.09.png)
 ---
 
 ## 🇫🇷 Français
@@ -89,4 +89,4 @@ Code: [MIT](LICENSE). Logo and artwork in `assets/`: © 2026 Milas, all rights r
 Inspired by a macOS rice seen on TikTok. Code written from scratch.
 
 **Milas** · [GitHub](https://github.com/imp0sutoikku) · Discord: `imp_sutoikku`
-![Aperçu](Screenshot 2026-10-20 at 12.42.09.png)
+
