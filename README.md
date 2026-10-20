@@ -1,4 +1,4 @@
-<p align="center"><img src="assets/logo-sakura.png" width="120" alt="Sakura Desk"></p>
+<p align="center"><img src="logo-sakura.png" width="120" alt="Sakura Desk"></p>
 <h1 align="center">Sakura Desk 🌸</h1>
 <p align="center">Un bureau macOS en rose clair, bleu et gris argenté, fait de widgets <a href="https://tracesof.net/uebersicht/">Übersicht</a>.<br>A soft pink, blue and silver macOS desktop built with Übersicht widgets.</p>
 
@@ -25,7 +25,7 @@
 
 1. Installe Übersicht : `brew install --cask ubersicht` (ou télécharge-le sur [tracesof.net/uebersicht](https://tracesof.net/uebersicht/)).
 2. Ouvre l'app. Une icône apparaît dans la barre de menus.
-3. Copie le contenu de `widgets/` dans `~/Library/Application Support/Übersicht/widgets/`.
+3. Copie les fichiers sakura-*.jsx dans `~/Library/Application Support/Übersicht/widgets/`.
 4. **Ajoute les widgets un par un** : si l'un contient une erreur, Übersicht peut planter. Retire le dernier fichier ajouté si ça arrive.
 
 ### Personnalisation
@@ -71,7 +71,7 @@ Les positions sont réglées pour un écran d'environ 1440 px de large. Ajuste `
 
 1. Install Übersicht: `brew install --cask ubersicht` (or download it from [tracesof.net/uebersicht](https://tracesof.net/uebersicht/)).
 2. Open the app. A menu bar icon appears.
-3. Copy everything in `widgets/` to `~/Library/Application Support/Übersicht/widgets/`.
+3. Copy everything in sakura-*.jsx to `~/Library/Application Support/Übersicht/widgets/`.
 4. **Add widgets one at a time**: a widget with an error can crash Übersicht. Remove the last file you added if it does.
 
 ### Customize
